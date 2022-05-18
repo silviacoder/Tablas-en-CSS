@@ -1,0 +1,179 @@
+body{
+    background-color: chocolate;
+}
+
+
+h1{
+    font-style: italic;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    margin: auto;
+}
+
+.line1{
+    background-color: darkgreen;
+    height: 50px;
+    text-align: center;
+}
+
+.line2{
+    height: 50px;
+}
+
+.line3{
+    height: 50px;
+}
+
+.line4{
+    height: 50px;
+}
+
+.th{
+    font-size: 5px;
+    top: 10px;
+    text-align: center;
+}
+
+.cell1{
+    background-color: black;
+}
+
+.cell2{
+    background-color: teal;
+}
+
+.cell3{
+    background-color: blue;
+}
+
+.cell4{
+    background-color: navy;
+}
+
+.cell5{
+    background-color: lime;
+}
+
+.cell6{
+    background-color: white;
+}
+
+.cell7{
+    background-color: purple;
+}
+
+.cell8{
+    background-color: yellow;
+}
+
+.cell9{
+    background-color: olive;
+}
+
+.cell10{
+    background-color: red;
+}
+
+.cell11{
+    background-color: black;
+}
+
+.cell12{
+    background-color: gray;
+}
+
+.cell13{
+    background-color: olive;
+}
+
+.cell14{
+    background-color: red;
+}
+
+.cell15{
+    background-color: fuchsia;
+}
+
+.cell16{
+    background-color: darkgreen;
+}
+
+section li{
+    display: inline-block;
+    padding: 5px;
+}
+
+.black{
+    color: black;
+}
+
+.teal{
+    color: teal;
+}
+
+.blue{
+    color: blue;
+}
+
+.navy{
+    color: navy;
+}
+
+.lime{
+    color: lime;
+}
+
+.white{
+    color: white;
+}
+
+.purple{
+    color: purple;
+}
+
+.yellow{
+    color: yellow;
+}
+
+.olive{
+    color: olive;
+}
+
+.red{
+    color: red;
+}
+
+.brown{
+    color: brown;
+}
+
+.gray{
+    color: gray;
+}
+
+.fuchsia{
+    color: fuchsia;
+}
+
+.green{
+    color: darkgreen;
+}
+
+.aqua{
+    color: aqua;
+}
+
+.silver{
+    color: silver;
+}
+
+
+
+
+
+
+
+
